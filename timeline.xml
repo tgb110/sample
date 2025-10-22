@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+    <w:body>
+        <w:p>
+            <w:r>
+                <w:t>- January 1, 2025: Project kickoff meeting.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:r>
+                <w:t>- March 15, 2025: Complete initial research phase.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:r>
+                <w:t>- June 30, 2025: Launch prototype.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:r>
+                <w:t>- September 1, 2025: Begin user testing.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:r>
+                <w:t>- December 15, 2025: Finalize project deliverables.</w:t>
+            </w:r>
+        </w:p>
+    </w:body>
+</w:document>
